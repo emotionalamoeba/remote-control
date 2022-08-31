@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import RemoteGrid from '../layouts/RemoteGrid';
 import LED from './LED';

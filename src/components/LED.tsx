@@ -1,4 +1,3 @@
-import React from "react";
 import styles from './LED.module.css';
 
 const LED = (props: {lit: boolean}) => {

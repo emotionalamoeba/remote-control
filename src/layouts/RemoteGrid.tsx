@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './RemoteGrid.module.css';
 
 const RemoteGrid = (props: {children: JSX.Element[]}) => {
