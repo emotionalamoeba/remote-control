@@ -1,0 +1,9 @@
+.led_shape {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;    
+    translate: 0 -1em;
+    border-radius: 50%;
+    width: 1em;
+    height: 1em;
+}

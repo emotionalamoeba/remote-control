@@ -1,0 +1,22 @@
+.remote_button {
+    background: #23252f;
+    color: #eaeaeb;
+    box-shadow: 0px 0px 4px 0px black;
+    border: 1px solid #666666;
+    border-radius: 5px;
+
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align : middle;
+}
+
+.remote_button:hover {
+    background: #2f38c0;    
+}
+
+.remote_button_text {        
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    user-select: none;
+}
